@@ -8,4 +8,6 @@ class Waiter
     @age = age
     @@all << self
   end
+  
+  
 end
