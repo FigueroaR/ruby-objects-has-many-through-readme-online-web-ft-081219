@@ -11,6 +11,8 @@ class Meal
     @tip = tip
     @@all << self
   end
+  
+  
  
   def self.all
     @@all
